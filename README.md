@@ -21,6 +21,4 @@ A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built fo
    python main.py
    ```
 
-That's it! Turn the knobs and start drawing.
-
-The code and enclosure designs are in this repository, so feel free to explore and modify them.
+That's it! Left click to start/stop drawing, right click to clear canvas. Let see what you can draw :p 
