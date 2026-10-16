@@ -1,6 +1,6 @@
 # Arduino Etch-A-Sketch
 
-A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built for the ATMOS tech fest workshop.
+A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built for the ATMOS 2026 Etch A Sketch Workshop
 
 ## What's in the kit?
 - Arduino Nano + USB cable
