@@ -23,5 +23,6 @@ A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built fo
 
 That's it! Left click to start/stop drawing, right click to clear canvas. Let see what you can draw :p 
 
+## Schematic: 
 
 <img width="942" height="804" alt="image" src="https://github.com/user-attachments/assets/0b628570-db9e-48f7-938d-8b206d725999" />
