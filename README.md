@@ -6,7 +6,8 @@ A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built fo
 - Arduino Nano + USB cable
 - 2 rotary encoders
 - 400-point breadboard
-- 3 mm MDF pieces for the snap-fit enclosure
+- jumper wires
+- Laser-cut MDF sheet for the snap-fit enclosure
 
 ## Getting started
 1. Assemble the MDF pieces and wire up the components (according to schematic).
