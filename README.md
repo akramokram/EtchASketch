@@ -10,13 +10,14 @@ A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built fo
 
 ## Getting started
 1. Assemble the MDF pieces and wire up the components (according to schematic).
-2. Open `EtchASketch.ino` in the Arduino IDE and upload it to the Nano. Install any required libraries if prompted.
-3. Install the Python dependency:
+2. Install the Arduino IDE(https://www.arduino.cc/en/software/) and Python(https://www.python.org/downloads/).
+3. Open `EtchASketch.ino` in the Arduino IDE and upload it to the Nano. Install any required libraries if prompted.
+4. Install the Python dependency:
    ```bash
    pip install pyserial
    ```
-4. Check the Arduino's serial port in `main.py` and change it if needed.
-5. Run the Python script:
+5. Check the Arduino's serial port in `main.py` and change it if needed.
+6. Run the Python script:
    ```bash
    python main.py
    ```
