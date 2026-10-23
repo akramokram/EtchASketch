@@ -24,6 +24,7 @@ A DIY Etch-A-Sketch made using an Arduino Nano and two rotary encoders. Built fo
    ```
 
 That's it! Click to put your pen down and start drawing! :p 
+Upload your sketch to https://drive.google.com/drive/folders/1ronMIoobCRGHsdDPxFqr_sgs7huoSqae?usp=sharing for us to see!
 
 ## Schematic: 
 
